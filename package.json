@@ -1,5 +1,27 @@
 {
   "dependencies": {
-    "node": "^17.3.0"
-  }
+    "casual": "^1.6.2",
+    "node": "^17.3.0",
+    "nodemon": "^2.0.15"
+  },
+  "name": "node",
+  "version": "1.0.0",
+  "description": "myNodeApp",
+  "main": " \u001b[D",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nostoppin/NodeProjects.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Himadri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nostoppin/NodeProjects/issues"
+  },
+  "homepage": "https://github.com/nostoppin/NodeProjects#readme"
 }
